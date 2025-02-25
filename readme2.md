@@ -1,7 +1,7 @@
 # Phishing Investigation and Mitigation
 
 ## 📌 Project Overview
-This project simulates a real-world phishing attack targeting corporate employees, demonstrating how to analyze and mitigate the threat step by step.
+This project showcases my ability to analyze phishing emails, investigate DNS records and implement mitigation strategies simulating a real-world security incident.
 
 ## 1️⃣ Email Phishing Analysis
 An HR Manager named Preston H. receives an email from his security enterprise vendor requesting verification of his login details.
@@ -99,6 +99,9 @@ The link http://company-login.secure-verification.com is flagged as phishing by 
 - **Enable Multi-Factor Authentication (MFA)**: To prevent credential theft from leading to unauthorized access.
 - **Regularly Monitor Phishing Threats**: Use automated tools to scan for new phishing domains.
 
+### 5️⃣ Conclusion
+This phishing investigation and mitigation project demonstrates my ability to analyze and respond to cybersecurity threats effectively. By combining technical tools and security awareness organizations can prevent phishing attacks and enhance their defense mechanisms.
+
 ## ⚠️ Ethical Disclaimer
-🚨 **This project is for educational purposes only.** 🚨
+🚨 **This project is for educational purposes only. No real phishing attacks were conducted.** 🚨
 
